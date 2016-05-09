@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.example.bharat.task1" >
+=======
+    package="com.example.bharat.beph" >
+>>>>>>> 8a7cc4dd4f790783575a9ce8432d94fa743c5d57
 
     <application
         android:allowBackup="true"
@@ -16,6 +20,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
         <!--<activity android:name=".Landscape"/>-->
         <!--<activity android:name=".Potrait"/>-->
         <activity android:name=".One"/>
@@ -27,6 +32,8 @@
         <activity android:name=".Brightness"/>
 
 
+=======
+>>>>>>> 8a7cc4dd4f790783575a9ce8432d94fa743c5d57
     </application>
 
 </manifest>

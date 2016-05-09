@@ -5,8 +5,13 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId "com.example.bharat.task1"
         minSdkVersion 8
+=======
+        applicationId "com.example.bharat.beph"
+        minSdkVersion 14
+>>>>>>> 8a7cc4dd4f790783575a9ce8432d94fa743c5d57
         targetSdkVersion 23
         versionCode 1
         versionName "1.0"

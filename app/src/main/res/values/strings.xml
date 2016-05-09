@@ -1,5 +1,9 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Task1</string>
+=======
+    <string name="app_name">BePh</string>
+>>>>>>> 8a7cc4dd4f790783575a9ce8432d94fa743c5d57
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
